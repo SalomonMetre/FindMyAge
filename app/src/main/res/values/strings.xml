@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name"> Find My Age </string>
+    <string name="age_message"> Your age is : </string>
+</resources>
